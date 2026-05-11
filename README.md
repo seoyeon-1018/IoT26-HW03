@@ -24,6 +24,15 @@ When motion is detected, the camera captures a photo and saves it in the motion_
 The button is used to stop the program.
 
 ## RPI working
+
+
+
+
+https://github.com/user-attachments/assets/5a973e34-4f4d-46ad-870e-7288396f45f6
+
+
+
+
 <img width="3024" height="4032" alt="KakaoTalk_20260510_210825208" src="https://github.com/user-attachments/assets/7d38c235-f300-4f14-91b8-d9ddb36efc61" />
 
 ## IDE
